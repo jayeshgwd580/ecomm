@@ -1,8 +1,10 @@
+import { Landingpage } from "./pages/landingpage/Landingpage";
+
 function App() {
   return (
-    <div className="App">
-      Hello there
-    </div>
+    <>
+    <Landingpage />
+    </>
   );
 }
 
